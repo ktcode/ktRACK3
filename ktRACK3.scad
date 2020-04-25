@@ -9,17 +9,6 @@ gap2 = 0.002;
 
 panel_thick = 2;
 
-X = 60;
-Y = 40;
-Z = 30;
-
-
-key_pitch_x = 19;
-key_pitch_y = 19;
-hole_x = 14;
-hole_y = 14;
-keybase_thick = 5;
-
 
 difference()
 {
